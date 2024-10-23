@@ -89,3 +89,11 @@ C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\NextF
 C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\NextFlix.genruntimeconfig.cache
 C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\ref\NextFlix.dll
 C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\NextFlix.sourcelink.json
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\bin\Release\appsettings.Development.json
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\bin\Release\appsettings.json
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\bin\Release\NextFlix.staticwebassets.runtime.json
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\bin\Release\NextFlix.exe
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\bin\Release\NextFlix.deps.json
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\bin\Release\NextFlix.runtimeconfig.json
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\bin\Release\NextFlix.dll
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\bin\Release\NextFlix.pdb

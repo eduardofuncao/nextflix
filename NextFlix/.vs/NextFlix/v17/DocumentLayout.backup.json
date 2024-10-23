@@ -43,15 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NextFlix",
+              "Title": "NextFlix.csproj",
               "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\NextFlix.csproj",
               "RelativeDocumentMoniker": "NextFlix\\NextFlix.csproj",
               "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\NextFlix.csproj",
               "RelativeToolTip": "NextFlix\\NextFlix.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T18:33:57.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T18:33:57.809Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "NextFlix\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T18:07:36.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T18:07:36.432Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "NextFlix\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T04:23:15.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T04:23:15.321Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "NextFlix\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T04:23:13.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T04:23:13.427Z"
             },
             {
               "$type": "Document",
@@ -100,7 +96,7 @@
               "RelativeDocumentMoniker": "NextFlix\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "NextFlix\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-23T04:06:44.258Z",
               "EditorCaption": ""
@@ -115,8 +111,7 @@
               "RelativeToolTip": "NextFlix\\Views\\Media\\Details.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T03:52:25.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T03:52:25.967Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "NextFlix\\Views\\Media\\Lista.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T03:52:17.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T03:52:17.301Z"
             }
           ]
         }
