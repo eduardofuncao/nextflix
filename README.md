@@ -31,7 +31,7 @@ Siga as etapas abaixo para configurar o projeto localmente:
    ```
 
 📱 Uso
-Após iniciar o aplicativo, você verá a página inicial com a lista de filmes. Para adicionar uma avaliação, clique no botão "Adicionar Avaliação", preencha os campos necessários e salve. Você pode visualizar, editar ou excluir suas avaliações diretamente da lista.
+Após iniciar o aplicativo, você verá a página inicial com a lista de filmes. Para adicionar uma avaliação, clique no botão "Adicionar Review", preencha os campos necessários e salve. Você pode visualizar, editar ou excluir suas avaliações diretamente da lista.
 
 🖼️ Capturas de Tela
 ![image](https://github.com/user-attachments/assets/89954441-5658-4a78-9db7-e19f29b78498)
