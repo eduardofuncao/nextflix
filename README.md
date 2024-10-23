@@ -27,7 +27,7 @@ Siga as etapas abaixo para configurar o projeto localmente:
 
    ```bash
    git clone https://github.com/eduardofuncao/nextflix/
-   cd NEXTFLIX
+   cd NextFlix
    ```
 
 📱 Uso
