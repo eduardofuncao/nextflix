@@ -1,5 +1,5 @@
 # NEXTFLIX - Sistema de Avaliação de Filmes
-
+https://github.com/eduardofuncao/nextflix
 Bem-vindo ao NEXTFLIX, um sistema desenvolvido em ASP.NET Core MVC que permite aos usuários avaliar e comentar sobre filmes de forma simples e eficiente.
 
 ## 📋 Funcionalidades
