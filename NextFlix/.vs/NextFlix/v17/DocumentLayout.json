@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\media\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\media\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\nextflix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\nextflix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\media\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -22,43 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NextFlix",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\NextFlix.csproj",
+              "RelativeDocumentMoniker": "NextFlix\\NextFlix.csproj",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\NextFlix.csproj",
+              "RelativeToolTip": "NextFlix\\NextFlix.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T18:33:57.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NextFlix\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NextFlix\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T18:07:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NextFlix\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NextFlix\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T04:23:15.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NextFlix\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NextFlix\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T04:23:13.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "NextFlix\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "NextFlix\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-23T04:06:44.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Media\\Details.cshtml",
               "RelativeDocumentMoniker": "NextFlix\\Views\\Media\\Details.cshtml",
               "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Media\\Details.cshtml",
               "RelativeToolTip": "NextFlix\\Views\\Media\\Details.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-23T03:52:25.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Lista.cshtml",
               "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Media\\Lista.cshtml",
               "RelativeDocumentMoniker": "NextFlix\\Views\\Media\\Lista.cshtml",
               "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Media\\Lista.cshtml",
               "RelativeToolTip": "NextFlix\\Views\\Media\\Lista.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-23T03:52:17.301Z",
               "EditorCaption": ""

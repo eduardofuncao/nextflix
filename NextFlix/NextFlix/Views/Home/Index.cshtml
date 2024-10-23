@@ -3,10 +3,27 @@
 ViewData["Title"] = "Home Page";
 }
 
-<h1>Bem-vindo ao NextFlix</h1>
 
-<h3>O site que te permite virar um grande membro da Academia e expressar sua avaliação sobre qualquer filme ou série!</h3>
+<style>
+    .hero-text {
+        text-align: center;
+        max-width: 800px;
+        margin: auto;
+    }
 
-<p>
-    <a asp-controller="Media" asp-action="Create" class="btn btn-primary">Adicionar um novo Filme/Série</a> 
-</p>
+    .card-bg {
+        width: 45vw;
+        height: 80vh;
+    }
+</style>
+
+
+<div class="card card-bg bg-dark border-0 mx-auto my-auto">
+    <div class="hero-text">
+        <h1 class="display-3">Bem-vindo ao NextFlix!</h1>
+        <p class="lead">O seu destino para críticas de filmes!</p>
+        <hr class="my-4">
+            <a asp-controller="Media" asp-action="Create" class="btn btn-primary">Adicionar um novo Filme/Série</a>
+        </p>
+    </div>
+</div>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NextFlix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00e4348c94f996727ca8d8d99e1ab441ed5e0f3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NextFlix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NextFlix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -88,3 +88,4 @@ C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\refin
 C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\NextFlix.pdb
 C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\NextFlix.genruntimeconfig.cache
 C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\ref\NextFlix.dll
+C:\ads\AdvancedBusinessDev\cp2\NextFlix\NextFlix\NextFlix\obj\Debug\net8.0\NextFlix.sourcelink.json
