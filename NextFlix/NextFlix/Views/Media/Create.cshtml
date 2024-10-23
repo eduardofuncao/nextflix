@@ -1,0 +1,83 @@
+﻿@model NextFlix.Models.Media
+
+@{
+ViewData["Title"] = "Criar Nova Mídia";
+}
+
+<h1>Adicione sua Avaliação</h1>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Title" class="control-label">Título</label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ReleaseDate" class="control-label">Data de Lançamento</label>
+        <input asp-for="ReleaseDate" class="form-control" type="date" />
+        <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Director" class="control-label">Diretor</label>
+        <input asp-for="Director" class="form-control" />
+        <span asp-validation-for="Director" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Genre" class="control-label">Gênero</label>
+        <select asp-for="Genre" class="form-control">
+            <option value="Action">Ação</option>
+            <option value="Comedy">Comédia</option>
+            <option value="Drama">Drama</option>
+            <option value="Horror">Terror</option>
+            <option value="Romance">Romance</option>
+        </select>
+        <span asp-validation-for="Genre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Type" class="control-label">Tipo</label>
+        <select asp-for="Type" class="form-control">
+            <option value="Movie">Filme</option>
+            <option value="Series">Série</option>
+        </select>
+        <span asp-validation-for="Type" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="IsWatched" class="control-label">Já assistiu?</label>
+        <input asp-for="IsWatched" class="form-check-input" type="checkbox" />
+        <span asp-validation-for="IsWatched" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Rating" class="control-label">Avaliação</label>
+        <select asp-for="Rating" class="form-control">
+            <option value="0">0 - Odiou :(</option>
+            <option value="1">1 - Muito Ruim</option>
+            <option value="2">2 - Ruim</option>
+            <option value="3">3 - Bom :|</option>
+            <option value="4">4 - Muito Bom</option>
+            <option value="5">5 - Amei :)</option>
+        </select>
+        <span asp-validation-for="Rating" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Review" class="control-label">Review</label>
+        <textarea asp-for="Review" class="form-control"></textarea>
+        <span asp-validation-for="Review" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Criar" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Lista">Voltar para a lista</a>
+</div>

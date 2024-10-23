@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\media\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\media\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\media\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\media\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Media\\Details.cshtml",
+              "RelativeDocumentMoniker": "NextFlix\\Views\\Media\\Details.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Media\\Details.cshtml",
+              "RelativeToolTip": "NextFlix\\Views\\Media\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T03:52:25.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Media\\Lista.cshtml",
+              "RelativeDocumentMoniker": "NextFlix\\Views\\Media\\Lista.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Media\\Lista.cshtml",
+              "RelativeToolTip": "NextFlix\\Views\\Media\\Lista.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T03:52:17.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

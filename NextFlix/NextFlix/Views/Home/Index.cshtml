@@ -1,0 +1,12 @@
+﻿@model IEnumerable<NextFlix.Models.Media> 
+@{
+ViewData["Title"] = "Home Page";
+}
+
+<h1>Bem-vindo ao NextFlix</h1>
+
+<h3>O site que te permite virar um grande membro da Academia e expressar sua avaliação sobre qualquer filme ou série!</h3>
+
+<p>
+    <a asp-controller="Media" asp-action="Create" class="btn btn-primary">Adicionar um novo Filme/Série</a> 
+</p>

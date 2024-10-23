@@ -1,0 +1,55 @@
+﻿@model IEnumerable<NextFlix.Models.Media>
+
+@{
+ViewData["Title"] = "Media List";
+}
+
+<h1>Sua lista de reviews</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add nova review</a>
+</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Título</th>
+        <th>Data de Lançamento</th>
+        <th>Diretor</th>
+        <th>Gênero</th>
+        <th>Tipo</th>
+        <th>Assitiu?</th>
+        <th>Nota</th>
+        <th>Ações</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.Title</td>
+        <td>@item.ReleaseDate.ToString("yyyy-MM-dd")</td>
+        <td>@item.Director</td>
+        <td>@item.Genre</td>
+        <td>@item.Type</td>
+        <td>@(item.IsWatched ? "Yes" : "No")</td>
+        <td>
+            @if (item.Rating > 0)
+            {
+                <span>@item.Rating / 5</span>
+            }
+            else
+            {
+            <span>No rating</span>
+            }
+        </td>
+        <td>
+            <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+            <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+            <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+        </td>
+        
+    </tr>
+    }
+    </tbody>
+</table>

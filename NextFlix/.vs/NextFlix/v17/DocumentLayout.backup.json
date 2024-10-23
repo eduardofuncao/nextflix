@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|c:\\ads\\advancedbusinessdev\\cp2\\nextflix\\nextflix\\nextflix\\nextflix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F24DD3AC-9B5F-4DC0-9D80-F09B97A1E6BD}|NextFlix\\NextFlix.csproj|solutionrelative:nextflix\\nextflix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Rate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Services\\MovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Models\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\NextFlix\\NextFlix\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\NextFlix\\NextFlix\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T21:31:22.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NextFlix\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NextFlix\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:26:24.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Program.cs",
+              "RelativeDocumentMoniker": "NextFlix\\Program.cs",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Program.cs",
+              "RelativeToolTip": "NextFlix\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:19:49.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\NextFlix\\NextFlix\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "..\\..\\..\\NextFlix\\NextFlix\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:46:05.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rate.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Rate.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\NextFlix\\NextFlix\\Views\\Movies\\Rate.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Rate.cshtml",
+              "RelativeToolTip": "..\\..\\..\\NextFlix\\NextFlix\\Views\\Movies\\Rate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T20:45:21.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\NextFlix\\NextFlix\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "..\\..\\..\\NextFlix\\NextFlix\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T20:44:36.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\NextFlix\\NextFlix\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\..\\NextFlix\\NextFlix\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T20:43:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NextFlix\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NextFlix\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T20:42:53.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\NextFlix\\NextFlix\\Services\\MovieService.cs",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Services\\MovieService.cs",
+              "RelativeToolTip": "..\\..\\..\\NextFlix\\NextFlix\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:40:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NextFlix.csproj",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\NextFlix.csproj",
+              "RelativeDocumentMoniker": "NextFlix\\NextFlix.csproj",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\cp2\\NextFlix\\NextFlix\\NextFlix\\NextFlix.csproj",
+              "RelativeToolTip": "NextFlix\\NextFlix.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T20:39:39.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\NextFlix\\NextFlix\\Models\\Movie.cs",
+              "ToolTip": "C:\\ads\\AdvancedBusinessDev\\NextFlix\\NextFlix\\Models\\Movie.cs",
+              "RelativeToolTip": "..\\..\\..\\NextFlix\\NextFlix\\Models\\Movie.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:36:34.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
