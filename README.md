@@ -17,7 +17,7 @@ Bem-vindo ao NEXTFLIX, um sistema desenvolvido em ASP.NET Core MVC que permite a
 
 ## 🛠️ Requisitos
 
-- *.NET SDK (v5.0 ou superior)*
+- *.NET SDK (v8.0)*
 - *Git* (para clonar o repositório)
 
 ## 📝 Instalação
@@ -35,9 +35,9 @@ Siga as etapas abaixo para configurar o projeto localmente:
 Após iniciar o aplicativo, você verá a página inicial com a lista de filmes. Para adicionar uma avaliação, clique no botão "Adicionar Review", preencha os campos necessários e salve. Você pode visualizar, editar ou excluir suas avaliações diretamente da lista.
 
 🖼️ Capturas de Tela
-![image](https://github.com/user-attachments/assets/89954441-5658-4a78-9db7-e19f29b78498)
-![image](https://github.com/user-attachments/assets/e004c5a3-d5d3-48d0-b467-d54a39eed9c2)
-
+![image](https://github.com/user-attachments/assets/ab1df810-f8ae-4f28-bd30-be9109f4839f)
+![image](https://github.com/user-attachments/assets/ad728e98-36a5-4c37-93f9-aba582c237a4)
+![image](https://github.com/user-attachments/assets/46415662-9750-464e-9b05-2fafdf33bc06)
 
 Feito por:
     Artur Lopes rm553481
